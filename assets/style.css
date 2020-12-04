@@ -3,6 +3,8 @@ body{
     font-family: 'Hind Siliguri', sans-serif;
     background-color: rgb(6, 87, 119);
     color: seashell;
+    font-size: 18px;
+    line-height: 27px;
 }
 
 .fake-news{
@@ -11,4 +13,13 @@ body{
     margin-right: auto;
     width: 80%;
     height: 560px;
+}
+
+main{
+    width: 80%;
+    margin: 71px auto;
+    border: 5px solid gold;
+    border-radius: 9px;
+    box-shadow: gold;
+    padding: 20px 45px;
 }
