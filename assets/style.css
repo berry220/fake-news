@@ -1,0 +1,14 @@
+/* Global Variables */
+body{
+    font-family: 'Hind Siliguri', sans-serif;
+    background-color: rgb(6, 87, 119);
+    color: seashell;
+}
+
+.fake-news{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 560px;
+}
