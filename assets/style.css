@@ -9,10 +9,19 @@ body{
 
 .fake-news{
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 35px auto;
     width: 80%;
     height: 560px;
+
+}
+
+.eric-tweet{
+    display: block;
+    margin: 45px auto;
+    width: 49%;
+    height: 610px;
+    border: 3px solid rgba(52, 182, 221, 0.883);
+    border-radius: 2px;
 }
 
 main{
@@ -22,4 +31,14 @@ main{
     border-radius: 9px;
     box-shadow: gold;
     padding: 20px 45px;
+}
+
+a{
+    text-decoration: none;
+    color: yellow;
+}
+
+a:hover{
+    opacity: 0.6;
+    text-decoration: underline;
 }
